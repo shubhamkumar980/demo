@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+*.log
+
+# 52 CC-licensed stock photos pulled during research. Nothing on the page uses
+# them — the restaurant's own photographs filled every slot. 29 MB of dead
+# weight in a clone, so they stay local. Delete this line to commit them.
+assets/food/
+
+# Competitor thumbnails scraped alongside the real photos; not ours to publish.
+assets/reference/_competitors/
