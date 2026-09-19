@@ -9,3 +9,5 @@ assets/food/
 
 # Competitor thumbnails scraped alongside the real photos; not ours to publish.
 assets/reference/_competitors/
+
+.env

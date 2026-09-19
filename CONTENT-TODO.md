@@ -23,10 +23,12 @@ owner to confirm.
 
 ## Review quotes
 
-The tandoor section carries one quoted line. It is a **paraphrase** drawn from recurring
-themes in public reviews, not a verbatim quote from a named person, and the page labels it
-as such ("recurring theme across public reviews"). Replace it with a real, attributed review
-or drop it before launch.
+There are none, deliberately. An earlier draft carried a paraphrased review line and a
+block of summarised review themes; both read as analysis rather than as a restaurant
+talking, and both are gone. If real attributed reviews become available they can go back in.
+
+The four platform ratings in the Ratings section are still live figures read in
+September 2026 — they drift, so re-read them before any real launch.
 
 ## Photography
 
