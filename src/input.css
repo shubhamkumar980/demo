@@ -20,15 +20,15 @@
   --font-body:    "Karla", ui-sans-serif, system-ui, sans-serif;
   --font-kannada: "Noto Sans Kannada", var(--font-body);
 
-  --text-display:    clamp(2.25rem, 9.5vw, 6.5rem);
+  --text-display:    clamp(3rem, 11vw, 7rem);
   --text-display--line-height: 0.95;
   --text-display--letter-spacing: -0.03em;
-  --text-h1:         clamp(1.75rem, 6vw, 3.25rem);
+  --text-h1:         clamp(2.125rem, 7vw, 3.5rem);
   --text-h1--line-height: 1.05;
   --text-h1--letter-spacing: -0.02em;
-  --text-h2:         clamp(1.25rem, 4.5vw, 2rem);
+  --text-h2:         clamp(1.5rem, 5vw, 2.25rem);
   --text-h2--line-height: 1.15;
-  --text-eyebrow:    0.75rem;
+  --text-eyebrow:    0.8125rem;
   --text-eyebrow--line-height: 1.4;
   --text-eyebrow--letter-spacing: 0.18em;
 
@@ -76,7 +76,7 @@
     background-color: var(--surface);
     color: var(--on-surface);
     font-family: var(--font-body);
-    font-size: 1rem;
+    font-size: 1.0625rem;
     line-height: 1.6;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
