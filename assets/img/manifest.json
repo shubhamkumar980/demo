@@ -1,0 +1,463 @@
+{
+ "hero-butter-chicken": {
+  "src": 1920,
+  "srch": 1280,
+  "variants": [
+   [
+    800,
+    533
+   ],
+   [
+    1280,
+    853
+   ],
+   [
+    1920,
+    1280
+   ]
+  ],
+  "source": "https://unsplash.com/photos/5ac82b2ae398",
+  "kind": "stock-placeholder"
+ },
+ "tandoor-skewers": {
+  "src": 1920,
+  "srch": 1173,
+  "variants": [
+   [
+    800,
+    489
+   ],
+   [
+    1280,
+    782
+   ],
+   [
+    1920,
+    1173
+   ]
+  ],
+  "source": "https://unsplash.com/photos/d11ec9c172f0",
+  "kind": "stock-placeholder"
+ },
+ "paneer-tikka": {
+  "src": 1200,
+  "srch": 685,
+  "variants": [
+   [
+    480,
+    274
+   ],
+   [
+    800,
+    457
+   ],
+   [
+    1200,
+    685
+   ]
+  ],
+  "source": "https://unsplash.com/photos/fb8a883dc6d8",
+  "kind": "stock-placeholder"
+ },
+ "tandoori-chicken": {
+  "src": 1200,
+  "srch": 1800,
+  "variants": [
+   [
+    480,
+    720
+   ],
+   [
+    800,
+    1200
+   ],
+   [
+    1200,
+    1800
+   ]
+  ],
+  "source": "https://unsplash.com/photos/517a681e40be",
+  "kind": "stock-placeholder"
+ },
+ "chicken-biryani": {
+  "src": 1200,
+  "srch": 784,
+  "variants": [
+   [
+    480,
+    314
+   ],
+   [
+    800,
+    523
+   ],
+   [
+    1200,
+    784
+   ]
+  ],
+  "source": "https://unsplash.com/photos/e0cb75fb8d3a",
+  "kind": "stock-placeholder"
+ },
+ "dal-makhani": {
+  "src": 1200,
+  "srch": 2132,
+  "variants": [
+   [
+    480,
+    853
+   ],
+   [
+    800,
+    1421
+   ],
+   [
+    1200,
+    2132
+   ]
+  ],
+  "source": "https://unsplash.com/photos/63994c53433b",
+  "kind": "stock-placeholder"
+ },
+ "naan-curry": {
+  "src": 1200,
+  "srch": 650,
+  "variants": [
+   [
+    480,
+    260
+   ],
+   [
+    800,
+    433
+   ],
+   [
+    1200,
+    650
+   ]
+  ],
+  "source": "https://unsplash.com/photos/b51c2513a641",
+  "kind": "stock-placeholder"
+ },
+ "butter-chicken-kadai": {
+  "src": 1200,
+  "srch": 1800,
+  "variants": [
+   [
+    480,
+    720
+   ],
+   [
+    800,
+    1200
+   ],
+   [
+    1200,
+    1800
+   ]
+  ],
+  "source": "https://unsplash.com/photos/c014fe946bc7",
+  "kind": "stock-placeholder"
+ },
+ "kitchen-flame": {
+  "src": 1200,
+  "srch": 800,
+  "variants": [
+   [
+    480,
+    320
+   ],
+   [
+    800,
+    533
+   ],
+   [
+    1200,
+    800
+   ]
+  ],
+  "source": "https://unsplash.com/photos/f74bd3c7ccdf",
+  "kind": "stock-placeholder"
+ },
+ "thali-naan-topdown": {
+  "src": 1200,
+  "srch": 676,
+  "variants": [
+   [
+    480,
+    270
+   ],
+   [
+    800,
+    451
+   ],
+   [
+    1200,
+    676
+   ]
+  ],
+  "source": "https://unsplash.com/photos/00832b415979",
+  "kind": "stock-placeholder"
+ },
+ "samosas": {
+  "src": 1200,
+  "srch": 800,
+  "variants": [
+   [
+    480,
+    320
+   ],
+   [
+    800,
+    533
+   ],
+   [
+    1200,
+    800
+   ]
+  ],
+  "source": "https://unsplash.com/photos/df0568f70950",
+  "kind": "stock-placeholder"
+ },
+ "dhaba-table": {
+  "src": 1200,
+  "srch": 900,
+  "variants": [
+   [
+    480,
+    360
+   ],
+   [
+    800,
+    600
+   ],
+   [
+    1200,
+    900
+   ]
+  ],
+  "source": "https://unsplash.com/photos/8d10ef9383fe",
+  "kind": "stock-placeholder"
+ },
+ "tikka-skewers-close": {
+  "src": 1200,
+  "srch": 800,
+  "variants": [
+   [
+    480,
+    320
+   ],
+   [
+    800,
+    533
+   ],
+   [
+    1200,
+    800
+   ]
+  ],
+  "source": "https://unsplash.com/photos/9805252327bc",
+  "kind": "stock-placeholder"
+ },
+ "tandoori-platter-leaf": {
+  "src": 1200,
+  "srch": 800,
+  "variants": [
+   [
+    480,
+    320
+   ],
+   [
+    800,
+    533
+   ],
+   [
+    1200,
+    800
+   ]
+  ],
+  "source": "https://unsplash.com/photos/33b14f061079",
+  "kind": "stock-placeholder"
+ },
+ "real-paratha-dal": {
+  "src": 1200,
+  "srch": 899,
+  "variants": [
+   [
+    480,
+    360
+   ],
+   [
+    800,
+    599
+   ],
+   [
+    1200,
+    899
+   ]
+  ],
+  "kind": "real-google-listing"
+ },
+ "real-signboard": {
+  "src": 1200,
+  "srch": 554,
+  "variants": [
+   [
+    480,
+    222
+   ],
+   [
+    800,
+    369
+   ],
+   [
+    1200,
+    554
+   ]
+  ],
+  "kind": "real-google-listing"
+ },
+ "real-storefront": {
+  "src": 800,
+  "srch": 450,
+  "variants": [
+   [
+    480,
+    270
+   ],
+   [
+    800,
+    450
+   ]
+  ],
+  "kind": "real-google-listing"
+ },
+ "real-paratha-curry-plate": {
+  "src": 1040,
+  "srch": 780,
+  "variants": [
+   [
+    480,
+    360
+   ],
+   [
+    800,
+    600
+   ],
+   [
+    1040,
+    780
+   ]
+  ],
+  "kind": "real-google-listing"
+ },
+ "real-paneer-butter-masala": {
+  "src": 1040,
+  "srch": 780,
+  "variants": [
+   [
+    480,
+    360
+   ],
+   [
+    800,
+    600
+   ],
+   [
+    1040,
+    780
+   ]
+  ],
+  "kind": "real-google-listing"
+ },
+ "real-tandoori-roti": {
+  "src": 858,
+  "srch": 600,
+  "variants": [
+   [
+    480,
+    336
+   ],
+   [
+    800,
+    559
+   ]
+  ],
+  "kind": "real-google-listing"
+ },
+ "real-thali": {
+  "src": 670,
+  "srch": 768,
+  "variants": [
+   [
+    480,
+    550
+   ],
+   [
+    670,
+    768
+   ]
+  ],
+  "kind": "real-google-listing"
+ },
+ "real-egg-bhurji": {
+  "src": 900,
+  "srch": 506,
+  "variants": [
+   [
+    480,
+    270
+   ],
+   [
+    800,
+    450
+   ]
+  ],
+  "kind": "real-google-listing"
+ },
+ "real-methi-paratha": {
+  "src": 900,
+  "srch": 600,
+  "variants": [
+   [
+    480,
+    320
+   ],
+   [
+    800,
+    533
+   ]
+  ],
+  "kind": "real-google-listing"
+ },
+ "real-paneer-paratha": {
+  "src": 600,
+  "srch": 600,
+  "variants": [
+   [
+    480,
+    480
+   ],
+   [
+    600,
+    600
+   ]
+  ],
+  "kind": "real-google-listing"
+ },
+ "real-butter-masala-kadai": {
+  "src": 635,
+  "srch": 350,
+  "variants": [
+   [
+    480,
+    265
+   ],
+   [
+    635,
+    350
+   ]
+  ],
+  "kind": "real-google-listing"
+ }
+}
